@@ -1,0 +1,245 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\LuccaViccini\Desktop\UFJF\IC\VIC_CERN\nipscernufjf\Analise_Ponto_Fixo\procm6\procm6\Hardware\Quartus_Files\simulation\modelsim
+vaddr_dec
+IbWJO]`XCg@Lg2CIm5CmbL0
+VhnN1km5=Vgo<>SZe`UAiZ1
+Z1 dC:\Users\LuccaViccini\Desktop\UFJF\IC\VIC_CERN\nipscernufjf\Analise_Ponto_Fixo\procm6\procm6\Hardware\Quartus_Files\simulation\modelsim
+Z2 w1583886284
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/addr_dec.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/addr_dec.v
+L0 1
+Z3 OV;L;10.1d;51
+r1
+31
+Z4 o-vlog01compat -work work -O0
+Z5 !s92 -vlog01compat -work work +incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP -O0
+!i10b 1
+!s100 bE48L8J]GF15g=UkRhS`B3
+!s85 0
+!s108 1583940652.372000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/addr_dec.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/addr_dec.v|
+!s101 -O0
+vcore_fx
+I6h:4UjNaa7QWJBMPMSI1j0
+VVd?fhWcSJAA:<@^AHL=jJ2
+R1
+R2
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/core_fx.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/core_fx.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 WDk20Do6h9n3_eb1A8IPM0
+!s85 0
+!s108 1583940652.160000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/core_fx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/core_fx.v|
+!s101 -O0
+vinstr_dec_fx
+Ik3>RaT;;3ldN4g<S5PhYH0
+V[_NE5oo?a`>`7DT@Z8eoX3
+R1
+R2
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/instr_dec_fx.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/instr_dec_fx.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 Zf654dhO`BzLjOU1oRL=n3
+!s85 0
+!s108 1583940651.679000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/instr_dec_fx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/instr_dec_fx.v|
+!s101 -O0
+vmem_data
+Ii_Uf3gcTKTi61DWW2]ACC1
+Vc=XTUei1[j?4^jD]jCoSD3
+R1
+R2
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/mem_data.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/mem_data.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 f_TY40QL>OlN:3D647:<e2
+!s85 0
+!s108 1583940651.352000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/mem_data.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/mem_data.v|
+!s101 -O0
+vmem_instr
+IA4AQb0bT=k6TH9_MLci5H2
+VlT7SF^?LcOezh1Pdb;JLj0
+R1
+R2
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/mem_instr.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/mem_instr.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 >jR5OFi3dl:]IZdTlVD^f1
+!s85 0
+!s108 1583940651.147000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/mem_instr.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/mem_instr.v|
+!s101 -O0
+vpc
+Id_mX8joWhYf>EBLzH6I3k2
+VBac9UNP8b^0HolBkI1Olb3
+R1
+R2
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/pc.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/pc.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 3gR92`ZIm?12?4?MbKoom0
+!s85 0
+!s108 1583940650.947000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/pc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/pc.v|
+!s101 -O0
+vprefetch
+IenCS9lbNg<O5knkHlS6fE1
+VmE4aBNGM4<k>Q@ec0VQgC0
+R1
+R2
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/prefetch.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/prefetch.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 oajR0EbWkOYYRLJPh_1<L2
+!s85 0
+!s108 1583940650.651000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/prefetch.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/prefetch.v|
+!s101 -O0
+vproc_fx
+IN7gJ?ZzWDPHn`9[no:M@o1
+V@ZZ^nh1NI3EE[`kg<4aFN1
+R1
+R2
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/proc_fx.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/proc_fx.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 82Kj0J9OQT4iQRWN6eWe51
+!s85 0
+!s108 1583940650.344000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/proc_fx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/proc_fx.v|
+!s101 -O0
+vprocm6
+IN:2F[BQBYM2?EEV=z75[R3
+VKV7a]5C?dOJh>8YeUe6fg1
+R1
+w1583940186
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/procm6_H/procm6.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/procm6_H/procm6.v
+L0 1
+R3
+r1
+31
+R4
+!i10b 1
+!s100 [?:G7BISb`RiS<W]f7[4o1
+!s85 0
+!s108 1583940649.454000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/procm6_H/procm6.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/procm6_H|C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/procm6_H/procm6.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/procm6_H -O0
+vprocm6_tb
+!i10b 1
+!s100 C=P``aN]ez<PSo?fni:G=1
+IPS6HQ:l5VW?G2XO41WfEN3
+V^92mT9B^^<3e;<;LU@_IF0
+R1
+w1583940348
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Quartus_Files/procm6_tb.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Quartus_Files/procm6_tb.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1583940652.664000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Quartus_Files/procm6_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Quartus_Files|C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Quartus_Files/procm6_tb.v|
+!s101 -O0
+R4
+!s92 -vlog01compat -work work +incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Quartus_Files -O0
+vstack_pointer
+IIgG]?fHID]5dJIJ8:Od]02
+VfEan<A7i6M80>QR]`GYI^1
+R1
+R2
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/stack_pointer.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/stack_pointer.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 ?N14EJNaEPM=8zPEMZ3AJ2
+!s85 0
+!s108 1583940650.045000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/stack_pointer.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/stack_pointer.v|
+!s101 -O0
+vula_fx
+ID]6>JKJAT@J?6fBSRikkJ3
+V5W6Hz=^;XKK<;AAahJfO02
+R1
+R2
+8C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/ula_fx.v
+FC:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/ula_fx.v
+L0 1
+R3
+r1
+31
+R4
+R5
+!i10b 1
+!s100 2Q6Z4J?l0MB05B27?4`_U1
+!s85 0
+!s108 1583940649.736000
+!s107 C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/ula_fx.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP|C:/Users/LuccaViccini/Desktop/UFJF/IC/VIC_CERN/nipscernufjf/Analise_Ponto_Fixo/procm6/procm6/Hardware/Proc_IP/ula_fx.v|
+!s101 -O0

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="procm6">
+		<CBX_INST_ENTRY INSTANCE_NAME="|procm6|proc_fx:p_procm6|core_fx:core|ula_fx:ula|lpm_mult:Mult0|mult_u9t:auto_generated|alt_mac_out:mac_out4" CBX_FILE_NAME="mac_out_kv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|procm6|proc_fx:p_procm6|mem_data:mdata|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_5ml1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|procm6|proc_fx:p_procm6|mem_instr:minstr|altsyncram:mem_rtl_0" CBX_FILE_NAME="altsyncram_c971.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|procm6|proc_fx:p_procm6|core_fx:core|ula_fx:ula|lpm_mult:Mult0|mult_u9t:auto_generated|alt_mac_mult:mac_mult1" CBX_FILE_NAME="mac_mult_33h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|procm6|proc_fx:p_procm6|core_fx:core|ula_fx:ula|lpm_mult:Mult0|mult_u9t:auto_generated|alt_mac_mult:mac_mult3" CBX_FILE_NAME="mac_mult_58h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|procm6|proc_fx:p_procm6|core_fx:core|ula_fx:ula|lpm_mult:Mult0|mult_u9t:auto_generated|alt_mac_mult:mac_mult5" CBX_FILE_NAME="mac_mult_68h1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|procm6|proc_fx:p_procm6|core_fx:core|ula_fx:ula|lpm_divide:Div0" CBX_FILE_NAME="lpm_divide_36p.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|procm6|proc_fx:p_procm6|core_fx:core|ula_fx:ula|lpm_mult:Mult0" CBX_FILE_NAME="mult_u9t.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|procm6|proc_fx:p_procm6|core_fx:core|ula_fx:ula|lpm_mult:Mult0|mult_u9t:auto_generated|alt_mac_out:mac_out2" CBX_FILE_NAME="mac_out_sv82.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|procm6|proc_fx:p_procm6|core_fx:core|ula_fx:ula|lpm_mult:Mult0|mult_u9t:auto_generated|alt_mac_out:mac_out6" CBX_FILE_NAME="mac_out_kv82.tdf"/>
+	</PROJECT>
+</LOG_ROOT>
